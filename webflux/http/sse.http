@@ -1,0 +1,7 @@
+###
+GET {{base_url}}/sse/using-server-sent-event
+Accept: text/event-stream
+
+###
+GET {{base_url}}/sse/using-flux
+Accept: text/event-stream
